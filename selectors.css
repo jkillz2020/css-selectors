@@ -1,0 +1,49 @@
+header{ 
+  border-style: solid;
+  border-width: 1px;
+
+}
+
+.nav{
+  width: 100%
+  float:  left;
+  list-style: none;
+  margin: 0;
+  padding: 20px;
+}
+ nav li{
+  float: left;
+  margin-right: 20px;
+ }
+
+ .disable{
+  color: gray;
+ }
+
+ .active{
+  color: yellow;
+ }
+
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
+
+/*{
+  background-color: red;
+}
+{
+  background-color: blue;
+}*/
+
+.promo{
+  color: gold;
+  font-weight:  bold;
+}
+
+.input[input-type = "text"]{
+  font-size: 25px;
+}
